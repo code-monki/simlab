@@ -2,14 +2,9 @@
 
 ## Purpose
 
-Become productive with Rust quickly by building small, disposable exercises that
-support deterministic simulation systems.
+Become productive with Rust quickly by building small, disposable exercises that support deterministic simulation systems.
 
-This is not a beginner programming roadmap. It assumes an experienced software
-architect/developer with broad language experience and deep OOA/OOD/OOP
-background. The focus is Rust-specific judgment: ownership, data modeling,
-traits, explicit effects, deterministic execution, testing, serialization,
-replay, concurrency, ECS tradeoffs, and Godot integration.
+This is not a beginner programming roadmap. It assumes an experienced software architect/developer with broad language experience and deep OOA/OOD/OOP background. The focus is Rust-specific judgment: ownership, data modeling, traits, explicit effects, deterministic execution, testing, serialization, replay, concurrency, ECS tradeoffs, and Godot integration.
 
 ## Scope
 
