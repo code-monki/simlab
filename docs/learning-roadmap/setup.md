@@ -72,7 +72,7 @@ Recommended extensions:
 - `rust-lang.rust-analyzer`
 - `vadimcn.vscode-lldb`
 - `tamasfe.even-better-toml`
-- `serayuzgur.crates`, optional
+- `fill-labs.dependi`, optional dependency/version inspection
 
 Useful settings:
 
