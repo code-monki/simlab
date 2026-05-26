@@ -36,6 +36,7 @@ This is not a production application, UI project, or feature-complete game. It i
 ## Documentation
 
 - [Learning roadmap](docs/learning-roadmap/README.md)
+- [Rust setup](docs/learning-roadmap/setup.md)
 - [Engineering principles](docs/engineering-principles.md)
 - [Architecture notes](docs/architecture-notes.md)
 - [Rust notes](notes/rust-notes.md)

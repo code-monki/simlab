@@ -15,6 +15,9 @@ Each exercise should include:
 Use [reading-list.md](reading-list.md) for the canonical exercise-to-reading
 map. Per-exercise reading notes below are brief reminders.
 
+Use [worked-answers.md](worked-answers.md) only after attempting an exercise.
+The worked answers are comparison points, not the only acceptable solutions.
+
 ## Exercise README Template
 
 ```md

@@ -4,13 +4,15 @@ This roadmap is split into focused documents so it can be used as a working guid
 
 ## Start Here
 
-1. Read [foundation.md](foundation.md).
-2. Follow the sequence in [curriculum.md](curriculum.md).
-3. Pick the next exercise from [exercises.md](exercises.md).
-4. Use [reading-list.md](reading-list.md) to choose the minimum useful reading.
-5. Use [resources.md](resources.md) only to unblock the current exercise.
-6. Check [architecture.md](architecture.md) before adding concurrency, ECS, Godot, or replay infrastructure.
-7. Use [reference.md](reference.md) for anti-patterns, milestones, cadence, and glossary.
+1. Set up Rust using [setup.md](setup.md).
+2. Read [foundation.md](foundation.md).
+3. Follow the sequence in [curriculum.md](curriculum.md).
+4. Pick the next exercise from [exercises.md](exercises.md).
+5. Use [reading-list.md](reading-list.md) to choose the minimum useful reading.
+6. Compare your solution against [worked-answers.md](worked-answers.md) after attempting the exercise.
+7. Use [resources.md](resources.md) only to unblock the current exercise.
+8. Check [architecture.md](architecture.md) before adding concurrency, ECS, Godot, or replay infrastructure.
+9. Use [reference.md](reference.md) for anti-patterns, milestones, cadence, and glossary.
 
 ## Roadmap Sequence
 
@@ -106,9 +108,11 @@ Primary files:
 
 ## Documents
 
+- [Setup](setup.md): Rust, Cargo, tooling, VS Code, and verification commands.
 - [Foundation](foundation.md): purpose, scope, assumptions, engineering philosophy, operating model, repo structure, and competency model.
 - [Curriculum](curriculum.md): phase-based learning path.
 - [Exercises](exercises.md): detailed exercise catalog and exercise template.
+- [Worked Answers](worked-answers.md): comparison answers for exercises.
 - [Reading List](reading-list.md): exercise-to-reading map.
 - [Resources](resources.md): books, web references, chapter-topic mapping, and recommended crates.
 - [Architecture](architecture.md): spikes, project tracks, testing, performance, concurrency, ECS, Godot, networking, replay, and determinism.
